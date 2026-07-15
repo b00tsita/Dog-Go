@@ -84,3 +84,4 @@ prototipo a real sin reescribir toda la lógica de datos. El día que quieras
 más (por ejemplo login real con contraseña, o permisos distintos por rol),
 se puede evolucionar a tablas relacionales de verdad en Supabase sin
 perder nada de lo que ya está armado.
+
